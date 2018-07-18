@@ -1,0 +1,7 @@
+C:\Users\siddh\source\repos\MorrisGame\MorrisGame\bin\Debug\MorrisGame.exe.config
+C:\Users\siddh\source\repos\MorrisGame\MorrisGame\bin\Debug\MorrisGame.exe
+C:\Users\siddh\source\repos\MorrisGame\MorrisGame\bin\Debug\MorrisGame.pdb
+C:\Users\siddh\source\repos\MorrisGame\MorrisGame\obj\Debug\MorrisGame.csprojResolveAssemblyReference.cache
+C:\Users\siddh\source\repos\MorrisGame\MorrisGame\obj\Debug\MorrisGame.csproj.CoreCompileInputs.cache
+C:\Users\siddh\source\repos\MorrisGame\MorrisGame\obj\Debug\MorrisGame.exe
+C:\Users\siddh\source\repos\MorrisGame\MorrisGame\obj\Debug\MorrisGame.pdb
