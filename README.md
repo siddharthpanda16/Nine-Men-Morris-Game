@@ -42,11 +42,13 @@ xxxxxxxxWWWxWWxBBBBxx
 Part II: ALPHA-BETA 
 In this part you are asked to write two program that behave exactly the same as the program of Part I,
 but implement the ALPHA-BETA pruning algorithm instead of the MINIMAX. Notice that these programs
-should return the exact same estimate values as the programs of Part I; the main dierence is in the number
+should return the exact same estimate values as the programs of Part I; the main difference is in the number
 of nodes that were evaluated. We request that you call these programs ABOpening and ABGame.
+
 Part III: PLAY A GAME FOR BLACK
 Write the same programs as in Part I, but the computed move should be Black's move instead of White's
 move. We request that you call these programs MiniMaxOpeningBlack and MiniMaxGameBlack.
+
 Part IV: STATIC ESTIMATION 
 Write an improved static estimation function. The new function should be better than the one which was
 suggested in the handout. Rewrite the programs of Part I with your improved static estimation function.
